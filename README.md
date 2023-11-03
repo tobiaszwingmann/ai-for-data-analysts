@@ -3,7 +3,7 @@
 
 This repository contains training material for the AI for Data Analytics workshop at Springboard RISE.
 
-## Use Case 1: Use Case 1: Automated Data Analysis with ChatGPT (Plus)
+## Use Case 1: Automated Data Analysis with ChatGPT (Plus)
 * [ChatGPT for transactional data](https://chat.openai.com/share/c6f9a8e1-b177-4e5a-83a0-d1f7c653fa07)
 * [Transactional dataset](https://github.com/tobiaszwingmann/ai-for-data-analysts/blob/main/Retail_Data_s%20-%20Data.csv)
 * [Colab notebook](https://colab.research.google.com/drive/1L6x84fAhUZz-wg-P7jgwfhpZV0DQjF6q#scrollTo=RGBgQpiFyE7l)
